@@ -1,7 +1,7 @@
 # Will McCall
 DALI Challenge 1:  Data Challenge
 
-The different genders represented at the DALI lab do not have a discernible difference in categorical tendencies accross 14 survey datapoints, but people of greek affilation within the lab actually do exhibit a more discernible set of characteristics in comparrison to thier non greek counterparts.
+The different genders represented at the DALI lab do not have a discernible difference in overall tendencies accross 14 survey datapoints, but people of greek affilation within the lab actually do exhibit a more discernible set of characteristics in comparrison to thier non greek counterparts.
 
 For this challenge, I decided to take the dataset containing anonymized data of 65 DALI members, each of whom reported 14 pieces of data about themselves:
 
