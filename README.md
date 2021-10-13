@@ -34,7 +34,7 @@ prior to performing some computations, such as PCA reduction, it was necessary t
 
 In order to perform greek life analysis, I had to also exclude 22's from the data, who at the time of recording, were dissalowed from affiliation and thus not applicable.
 
-In order to perform both analyses, I had to remove the attribute being analyzed from the dataset so that it did not cause unwarrented clustering during dimensionality reduction.
+In order to perform both analyses, I had to remove the target attribute from dimensionalirt reduction so that it did not cause unwarrented clustering of the data along principal component axes.
 
 
 # dataGender.py
