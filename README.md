@@ -55,4 +55,4 @@ In order to perform both analyses, I had to remove the target attribute from dim
 
 # Folders
 
-The included folders have various perspectives on the datapoints for easy viewing.
+The included folders showcase the 3D data rendered from different angles.
